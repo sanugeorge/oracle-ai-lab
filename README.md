@@ -23,7 +23,7 @@ AI agent query the database safely.
 ## Progress
 - [x] Phase 0: Connect Python to Oracle
 - [x] Phase 1: Talk to Gemma 4 through Ollama
-- [ ] Phase 2: Vector search and RAG
+- [x] Phase 2: Vector search and RAG
 - [ ] Phase 3: REST API with FastAPI
 - [ ] Phase 4: Oracle MCP server
 - [ ] Phase 5: Agent capstone
